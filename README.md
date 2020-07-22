@@ -15,7 +15,7 @@ Clone the project your local environment and run 'com.mspark.minefinder.App.java
 Clone the project and move the root directory of it
 ```shell
 git clone https://github.com/java-dev-mspark/mine_finder.git
-cd mine_finder
+cd mine_finder/
 mvn clean package
 java -jar ./target/MineFinder.jar
 ```
