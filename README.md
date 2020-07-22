@@ -16,4 +16,4 @@ Clone the project and move the root directory of it
 ```shell
 mvn clean package
 java -jar ./target/MineFinder.jar
-```shell
+```
